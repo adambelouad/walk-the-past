@@ -24,7 +24,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/conservatory-garden-ps.pdf',
     title: '"Garden Replacing Greenhouses In Central Park Opened by Moses"',
     description:
-      'New York Times, 1937. This article describes the Conservatory Garden as a new public garden built where the old Central Park greenhouses once stood. It says the garden replaced "old-fashioned glass houses" and marked the beginning of a "new tradition" in Central Park — becoming a new "spot of scenic beauty," reflecting Moses\'s belief that parks should be organized, useful, and visually impressive.',
+      'New York Times, 1937. This article describes the Conservatory Garden as a new public garden built where the old Central Park greenhouses once stood. It says the garden replaced "old-fashioned glass houses" and marked the beginning of a "new tradition" in Central Park, becoming a new "spot of scenic beauty," reflecting Moses\'s belief that parks should be organized, useful, and visually impressive.',
   },
   {
     stop: 3,
@@ -33,7 +33,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/mc-gowans-pass-ps.jpg',
     title: 'Topographical Map of the North Part of New York Island (c. 1777)',
     description:
-      'This map shows the northern part of New York Island during the Revolutionary War, before Central Park existed. It specifically labels Fort Washington, the rebel lines, roads, hills, and waterways — helping explain why this part of Manhattan was important for military control. The map shows that the land was once understood in terms of defense, roads, elevation, and battle strategy. Today the north end of Central Park feels like a peaceful landscape, but this source reveals that the same area was once part of a contested military zone.',
+      'This map shows the northern part of New York Island during the Revolutionary War, before Central Park existed. It specifically labels Fort Washington, the rebel lines, roads, hills, and waterways, helping explain why this part of Manhattan was important for military control. The map shows that the land was once understood in terms of defense, roads, elevation, and battle strategy. Today the north end of Central Park feels like a peaceful landscape, but this source reveals that the same area was once part of a contested military zone.',
   },
   {
     stop: 4,
@@ -60,7 +60,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/the-mount.jpg',
     title: 'Stereograph of Mount St. Vincent, Central Park (c. 1860s–70s)',
     description:
-      'This stereograph shows what the site looked like before it became only a quiet park landscape. The image shows a large building set on raised ground, surrounded by trees and a road — demonstrating that the Mount was once a built environment, not just open green space. It makes it easier to see that this area once had buildings and communities, not just trees and paths.',
+      'This stereograph shows what the site looked like before it became only a quiet park landscape. The image shows a large building set on raised ground, surrounded by trees and a road, demonstrating that the Mount was once a built environment, not just open green space. It makes it easier to see that this area once had buildings and communities, not just trees and paths.',
   },
   {
     stop: 7,
@@ -69,7 +69,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/harlem-meer.jpg',
     title: 'Sanitary and Topographical Map of the City and Island of New York (Egbert L. Viele, 1865)',
     description:
-      "This map shows what the Harlem Meer area looked like before Central Park fully reshaped it. The map shows the original streams, marshland, and uneven topography in the north end of Manhattan — explaining that the Harlem Meer was not simply invented as a decorative lake. It was created from an older wetland landscape, and the park's designers used and transformed the natural water features already present.",
+      "This map shows what the Harlem Meer area looked like before Central Park fully reshaped it. The map shows the original streams, marshland, and uneven topography in the north end of Manhattan, explaining that the Harlem Meer was not simply invented as a decorative lake. It was created from an older wetland landscape, and the park's designers used and transformed the natural water features already present.",
   },
   {
     stop: 8,
@@ -87,7 +87,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/huddlestone-arch.jpg',
     title: 'Photograph of Huddlestone Arch (c. 1895)',
     description:
-      "This 1895 photograph shows how the arch originally fit into the North Woods landscape. The image shows the large rough stones, the dark passage below, and the road structure above — explaining that Huddlestone Arch was both a piece of infrastructure and part of the park's natural-looking scenery. It shows how Central Park's designers made a human-built structure look like it belonged to the rocky landscape.",
+      "This 1895 photograph shows how the arch originally fit into the North Woods landscape. The image shows the large rough stones, the dark passage below, and the road structure above, explaining that Huddlestone Arch was both a piece of infrastructure and part of the park's natural-looking scenery. It shows how Central Park's designers made a human-built structure look like it belonged to the rocky landscape.",
   },
   {
     stop: 10,
@@ -96,7 +96,7 @@ const SOURCES: Source[] = [
     src: '/primary-sources/annual-report-1863.pdf',
     title: 'Seventh Annual Report of the Board of Commissioners of the Central Park (1864)',
     description:
-      "This report shows how the park's designers and commissioners described the northern part of Central Park while it was still being created. The report explains that the land between 106th and 110th Streets was added to the park because of its \"bold and picturesque topography.\" This connects directly to the Ravine because the Ravine depends on that rugged northern landscape — showing how the designers saw and worked with the natural terrain to create what now appears to be wilderness.",
+      "This report shows how the park's designers and commissioners described the northern part of Central Park while it was still being created. The report explains that the land between 106th and 110th Streets was added to the park because of its \"bold and picturesque topography.\" This connects directly to the Ravine because the Ravine depends on that rugged northern landscape, showing how the designers saw and worked with the natural terrain to create what now appears to be wilderness.",
   },
 ]
 
@@ -129,7 +129,7 @@ export default function PrimarySourcesPage() {
           Primary Sources
         </h1>
         <p className="text-base text-gray-600 mb-12 max-w-2xl leading-relaxed">
-          Each stop on this tour is supported by a primary source — an original document, map,
+          Each stop on this tour is supported by a primary source, an original document, map,
           photograph, or newspaper article that helps reveal the hidden history of that place.
           Click any source to open it in full.
         </p>

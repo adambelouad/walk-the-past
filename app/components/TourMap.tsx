@@ -40,7 +40,6 @@ const TOUR_STOPS: Stop[] = [
       'This matters because Robert Moses changed Central Park in major ways. Landscape historian Elizabeth Barlow Rogers explains that Moses saw parks as public spaces that should be shaped around recreation and civic use. She writes that Moses altered parts of Central Park\'s historic landscape to fit his own public program.',
       'The Conservatory Garden shows a different side of Central Park. Much of Central Park was designed to feel natural, rural, and picturesque. The Conservatory Garden is the opposite. It is ordered, symmetrical, and highly designed.',
       'The Center Garden has an Italian Renaissance influence, with a central lawn, fountain, yew hedges, crabapple trees, and a wisteria pergola. The North Garden uses a French parterre design with the Untermyer Fountain. The South Garden is arranged like an English perennial garden and includes the Burnett Fountain, connected to The Secret Garden author Frances Hodgson Burnett.',
-      'So, the garden is important because it creates a controlled, formal experience inside a park that is mostly known for appearing natural. It shows that Central Park is not one single design idea.',
     ],
   },
   // ── 3. McGowan's Pass ─────────────────────────────────────────────────────
@@ -87,7 +86,6 @@ const TOUR_STOPS: Stop[] = [
       "Nutter's Battery was connected to the other defenses by low earthen walls. These walls linked the forts to the gatehouse at McGowan's Pass, which controlled access to the road. The expected British attack never happened, so the forts did not see battle. After the war, they were left to decay or were dismantled.",
       "Nutter's Battery shows that the north end of Central Park was once a military landscape. Today, the site feels like a quiet overlook, but it was originally chosen because of its height, visibility, and defensive value.",
       'It also shows how Central Park was built over earlier layers of New York history. Before this land became a public park, it was used for roads, military planning, and local property. The current overlook marks the place where one part of that defense system once stood.',
-      "So, Nutter's Battery is important because it helps reveal the military history hidden inside Central Park. It shows how geography shaped the city's defenses and how a place now used for scenery was once used to control movement and protect Manhattan.",
     ],
   },
   // ── 6. The Mount / Mount St. Vincent ─────────────────────────────────────
@@ -104,7 +102,7 @@ const TOUR_STOPS: Stop[] = [
       'The site also had a Civil War history. During the war, the former Mount St. Vincent buildings were used as a military hospital known as the U.S. General Hospital, Central Park.',
       'The Mount shows how the north end of Central Park was built over earlier uses of the land. Today, it looks like a simple wooded and rocky landscape, but it once held roads, a tavern, a convent, a school, and a Civil War hospital.',
       "The location was important because it sat near McGowan's Pass, one of the major routes through northern Manhattan. People used this area for travel, gathering, education, religion, and later military medical care. Its position near a major road made it useful long before it became part of the park.",
-      'So, the Mount is important because it reveals how Central Park absorbed older histories into its landscape. It shows that the park was created on land that already had social, religious, educational, and military meaning.',
+
     ],
   },
   // ── 7. Harlem Meer ────────────────────────────────────────────────────────
@@ -121,7 +119,6 @@ const TOUR_STOPS: Stop[] = [
       'The Cultural Landscape Foundation explains that the shoreline changed over time. By the 1940s, the city had added a boathouse and walking paths, and the shoreline had become more regularized and fenced. Later restoration work focused on bringing back a more natural shoreline and improving access to the water.',
       'The Harlem Meer shows how the north end of Central Park connects park design with neighborhood access. It was designed as a scenic water landscape, but it also became an important public space for Harlem and East Harlem residents.',
       'The Meer also shows how Central Park has changed over time. Its landscape has gone through design, decline, restoration, and new redevelopment. The recent Davis Center project replaced the old Lasker Rink and Pool and aimed to reconnect the Harlem Meer area with the surrounding park landscape and nearby communities.',
-      'So, the Harlem Meer is important because it represents the relationship between Central Park and the communities north of the park. It is a landscape about water, access, restoration, and public use. It also shows that the north end of Central Park has its own history, separate from the more famous areas downtown in the park.',
     ],
   },
   // ── 8. Davis Center / former Lasker Rink and Pool ────────────────────────
