@@ -18,12 +18,12 @@ const CONNECTIONS: Connection[] = [
   {
     stop: 3,
     name: "McGowan's Pass",
-    text: 'This reminded me of Mannahatta because the reading talks about how Manhattan had many layers of history before the modern city was built. McGowan\'s Pass shows this clearly because before Central Park existed, this area was used for travel, roads, and military defense. The Wickquasgeck Trail and the Kingsbridge Road show that people were moving through this land long before it became a designed park landscape. Today it looks like a quiet part of the park, but it was once an important passage through Manhattan. It also reminds me of The Park and the People because the park often hides the histories that came before it — the 2013 discovery of the buried Kingsbridge Road makes this literal.',
+    text: 'This reminded me of Mannahatta because the reading talks about how Manhattan had many layers of history before the modern city was built. McGowan\'s Pass shows this clearly because before Central Park existed, this area was used for travel, roads, and military defense. The Wickquasgeck Trail and the Kingsbridge Road show that people were moving through this land long before it became a designed park landscape. Today it looks like a quiet part of the park, but it was once an important passage through Manhattan. It also reminds me of The Park and the People because the park often hides the histories that came before it. The 2013 discovery of the buried Kingsbridge Road clearly exmplifies this.',
   },
   {
     stop: 4,
     name: 'Fort Clinton',
-    text: 'This reminded me of Mannahatta because Fort Clinton shows how the natural geography of Manhattan shaped what people did there. The fort was built on high ground because it helped people watch and defend the area — geography shaped power. It also reminded me of The Park and the People because Central Park was built over older places with different histories. Today Fort Clinton feels like part of a peaceful park, but it was once connected to war and defense. The site is a good example of how the park can hide the histories that came before it.',
+    text: 'This reminded me of Mannahatta because Fort Clinton shows how the natural geography of Manhattan shaped what people did there. The fort was built on high ground because it helped people watch and defend the area. It also reminded me of The Park and the People because Central Park was built over older places with different histories. Today Fort Clinton feels like part of a peaceful park, but it was once connected to war and defense. The site is a good example of how the park can hide the histories that came before it.',
   },
   {
     stop: 5,
@@ -53,7 +53,7 @@ const CONNECTIONS: Connection[] = [
   {
     stop: 10,
     name: 'The Ravine',
-    text: "This reminded me of Emerson's Nature and Thoreau's The Maine Woods because the Ravine feels like a place where people can escape the city and experience nature. However, it also reminded me of The Park and the People because the Ravine is not truly wild. It was carefully designed to feel wild. The stream, rocks, paths, bridges, and plants were all arranged to create that feeling. This shows one of Central Park's main ideas: making a planned landscape feel like natural wilderness. The 1864 Annual Report's language about the 'bold and picturesque topography' of the north end reveals how the designers thought about the land — as raw material for a constructed natural experience.",
+    text: "This reminded me of Emerson's Nature and Thoreau's The Maine Woods because the Ravine feels like a place where people can escape the city and experience nature. However, it also reminded me of The Park and the People because the Ravine is not truly wild. It was carefully designed to feel wild. The stream, rocks, paths, bridges, and plants were all arranged to create that feeling. This shows one of Central Park's main ideas: making a planned landscape feel like natural wilderness. The 1864 Annual Report's language about the 'bold and picturesque topography' of the north end reveals how the designers thought about the land as raw material for a constructed natural experience.",
   },
 ]
 

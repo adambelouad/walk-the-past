@@ -75,7 +75,7 @@ const SOURCES: Source[] = [
     stop: 8,
     name: 'Davis Center / former Lasker Rink and Pool',
     sourceType: 'pdf',
-    src: '',
+    src: 'https://www.nytimes.com/1962/02/24/archives/central-park-to-get-swimming-pool-and-ice-rink-combined-110th-st.html',
     title: '"Central Park to Get Swimming Pool and Ice Rink"',
     description:
       'New York Times, 1962. This article shows the original public plan for what became Lasker Rink and Pool. The Board of Estimate approved a $1,800,000 combined swimming pool and ice rink at the southwest end of the Harlem Meer, near 110th Street. The rink and pool were designed to serve about 3,000 skaters or swimmers at one time and to be used "365 days a year," as the swimming pool could be turned into an ice-skating rink during colder months. This shows that city officials wanted the north end of Central Park to become a year-round recreational destination.',
@@ -124,7 +124,7 @@ export default function PrimarySourcesPage() {
       className="flex flex-1 justify-center"
       style={{ minHeight: 'calc(100vh - 97px)', fontFamily: 'var(--font-hedvig)' }}
     >
-      <div className="w-full max-w-4xl px-8 py-16">
+      <div className="w-full max-w-3xl px-8 py-16">
         <h1 className="text-4xl font-bold mb-3" style={{ fontFamily: 'var(--font-young-serif)' }}>
           Primary Sources
         </h1>
