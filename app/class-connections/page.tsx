@@ -28,7 +28,7 @@ const CONNECTIONS: Connection[] = [
   {
     stop: 5,
     name: "Nutter's Battery",
-    text: "This reminded me of The Park and the People because the reading shows that Central Park was carefully designed, but it also covered up older histories. Nutter's Battery used to be part of a military defense system, but today it looks more like a quiet overlook. It also reminded me of Mannahatta because the site's high rocky land made it useful for defense — showing how the natural landscape shaped human history before the park became a place for recreation. Both sources help explain how the land's geography determined its uses long before it became Central Park.",
+    text: "This reminded me of The Park and the People because the reading shows that Central Park was carefully designed, but it also covered up older histories. Nutter's Battery used to be part of a military defense system, but today it looks more like a quiet overlook. It also reminded me of Mannahatta because the site's high rocky land made it useful for defense, showing how the natural landscape shaped human history before the park became a place for recreation. Both sources help explain how the land's geography determined its uses long before it became Central Park.",
   },
   {
     stop: 9,
@@ -38,17 +38,17 @@ const CONNECTIONS: Connection[] = [
   {
     stop: 4,
     name: 'Harlem Meer',
-    text: 'This reminded me of Mannahatta because the Harlem Meer connects to the older natural landscape of Manhattan. Before Central Park changed the area, the land had streams, wetlands, and uneven ground — and the park\'s designers transformed rather than invented this water landscape. The Meer also reminded me of The Park and the People because it shows how different parts of the park served different communities. Since the Harlem Meer is near Harlem and East Harlem, its history is also about access, restoration, and how nearby neighborhoods use the park. The north end of the park has always had a different relationship with its surrounding communities than the southern sections.',
+    text: 'This reminded me of Mannahatta because the Harlem Meer connects to the older natural landscape of Manhattan. Before Central Park changed the area, the land had streams, wetlands, and uneven ground, and the park\'s designers transformed rather than invented this water landscape. The Meer also reminded me of The Park and the People because it shows how different parts of the park served different communities. Since the Harlem Meer is near Harlem and East Harlem, its history is also about access, restoration, and how nearby neighborhoods use the park. The north end of the park has always had a different relationship with its surrounding communities than the southern sections.',
   },
   {
     stop: 6,
     name: 'Davis Center / Former Lasker Rink and Pool',
-    text: 'This reminded me of the readings about Robert Moses because the original Lasker Rink and Pool was built as a large recreation project for the public. It fits with Moses\'s idea that parks should be useful and serve many people at once. But the Davis Center also reminded me of Mannahatta because the new project tries to restore part of the older water system by bringing the stream back above ground. This shows how ideas about parks have changed — from just building recreation spaces to also caring about ecology and the natural landscape. The same site has moved from a Moses-era vision of utility to a newer vision that combines recreation with environmental restoration.',
+    text: 'This reminded me of the readings about Robert Moses because the original Lasker Rink and Pool was built as a large recreation project for the public. It fits with Moses\'s idea that parks should be useful and serve many people at once. But the Davis Center also reminded me of Mannahatta because the new project tries to restore part of the older water system by bringing the stream back above ground. This shows how ideas about parks have changed, from just building recreation spaces to also caring about ecology and the natural landscape. The same site has moved from a Moses-era vision of utility to a newer vision that combines recreation with environmental restoration.',
   },
   {
     stop: 7,
     name: 'Huddlestone Arch',
-    text: 'This reminded me of the readings about Central Park\'s design because Huddlestone Arch looks natural, but it was actually carefully built. The arch is made from rough stones, so it blends into the North Woods and feels like part of the landscape. This connects to the idea that Central Park is constructed nature — many features that look wild were actually deliberately engineered. It also reminded me of the readings about how people experience landscapes because walking under the arch makes you feel like you are entering a quieter and wilder part of the park, even though that feeling was designed.',
+    text: 'This reminded me of the readings about Central Park\'s design because Huddlestone Arch looks natural, but it was actually carefully built. The arch is made from rough stones, so it blends into the North Woods and feels like part of the landscape. This connects to the idea that Central Park is constructed nature, many features that look wild were actually deliberately engineered. It also reminded me of the readings about how people experience landscapes because walking under the arch makes you feel like you are entering a quieter and wilder part of the park, even though that feeling was designed.',
   },
   {
     stop: 8,
