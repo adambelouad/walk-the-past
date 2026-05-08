@@ -1,7 +1,7 @@
 export default function ArtisticStatementPage() {
   return (
-    <main className="flex justify-center px-12 py-16">
-      <div className="max-w-4xl w-full">
+    <main className="flex flex-1 justify-center pt-24" style={{ minHeight: 'calc(100vh - 97px)' }}>
+      <div className="text-center" style={{ fontFamily: 'var(--font-hedvig)' }}>
         <h1 className="text-4xl font-bold mb-6" style={{ fontFamily: 'var(--font-young-serif)' }}>
           Artistic Statement
         </h1>
