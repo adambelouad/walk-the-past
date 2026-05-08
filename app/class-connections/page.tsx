@@ -16,29 +16,19 @@ const CONNECTIONS: Connection[] = [
     text: 'This reminded me of the readings about Robert Moses because the Conservatory Garden shows how he changed public spaces in New York. The garden feels very ordered, planned, and controlled, which matches Moses\'s style of making parks more organized and useful for the public. He often focused on order, beautification, and large-scale public improvements, but also made decisions from the top down. It also reminded me of The Park and the People because Central Park has always changed depending on what people thought the park should be. The Conservatory Garden shows that the park is not just natural-looking landscapes, but also formal spaces shaped by city leaders.',
   },
   {
-    stop: 10,
-    name: "McGowan's Pass",
-    text: 'This reminded me of Mannahatta because the reading talks about how Manhattan had many layers of history before the modern city was built. McGowan\'s Pass shows this clearly because before Central Park existed, this area was used for travel, roads, and military defense. The Wickquasgeck Trail and the Kingsbridge Road show that people were moving through this land long before it became a designed park landscape. Today it looks like a quiet part of the park, but it was once an important passage through Manhattan. It also reminds me of The Park and the People because the park often hides the histories that came before it. The 2013 discovery of the buried Kingsbridge Road clearly exmplifies this.',
-  },
-  {
     stop: 3,
     name: 'Fort Clinton',
     text: 'This reminded me of Mannahatta because Fort Clinton shows how the natural geography of Manhattan shaped what people did there. The fort was built on high ground because it helped people watch and defend the area. It also reminded me of The Park and the People because Central Park was built over older places with different histories. Today Fort Clinton feels like part of a peaceful park, but it was once connected to war and defense. The site is a good example of how the park can hide the histories that came before it.',
   },
   {
-    stop: 5,
-    name: "Nutter's Battery",
-    text: "This reminded me of The Park and the People because the reading shows that Central Park was carefully designed, but it also covered up older histories. Nutter's Battery used to be part of a military defense system, but today it looks more like a quiet overlook. It also reminded me of Mannahatta because the site's high rocky land made it useful for defense, showing how the natural landscape shaped human history before the park became a place for recreation. Both sources help explain how the land's geography determined its uses long before it became Central Park.",
-  },
-  {
-    stop: 9,
-    name: 'The Mount / Mount St. Vincent',
-    text: 'This reminded me of The Park and the People because the reading explains that Central Park was not built on empty land. The Mount had many different uses before it became part of the park, including a tavern, convent, school, and Civil War hospital. This shows that entire communities were displaced to create the park. It also reminded me of the reading about stereographs because the old image of Mount St. Vincent helps show a version of the park that no longer exists. The photograph makes it easier to see that this area once had buildings and communities, not just trees and paths.',
-  },
-  {
     stop: 4,
     name: 'Harlem Meer',
     text: 'This reminded me of Mannahatta because the Harlem Meer connects to the older natural landscape of Manhattan. Before Central Park changed the area, the land had streams, wetlands, and uneven ground, and the park\'s designers transformed rather than invented this water landscape. The Meer also reminded me of The Park and the People because it shows how different parts of the park served different communities. Since the Harlem Meer is near Harlem and East Harlem, its history is also about access, restoration, and how nearby neighborhoods use the park. The north end of the park has always had a different relationship with its surrounding communities than the southern sections.',
+  },
+  {
+    stop: 5,
+    name: "Nutter's Battery",
+    text: "This reminded me of The Park and the People because the reading shows that Central Park was carefully designed, but it also covered up older histories. Nutter's Battery used to be part of a military defense system, but today it looks more like a quiet overlook. It also reminded me of Mannahatta because the site's high rocky land made it useful for defense, showing how the natural landscape shaped human history before the park became a place for recreation. Both sources help explain how the land's geography determined its uses long before it became Central Park.",
   },
   {
     stop: 6,
@@ -54,6 +44,16 @@ const CONNECTIONS: Connection[] = [
     stop: 8,
     name: 'The Ravine',
     text: "This reminded me of Emerson's Nature and Thoreau's The Maine Woods because the Ravine feels like a place where people can escape the city and experience nature. However, it also reminded me of The Park and the People because the Ravine is not truly wild. It was carefully designed to feel wild. The stream, rocks, paths, bridges, and plants were all arranged to create that feeling. This shows one of Central Park's main ideas: making a planned landscape feel like natural wilderness. The 1864 Annual Report's language about the 'bold and picturesque topography' of the north end reveals how the designers thought about the land as raw material for a constructed natural experience.",
+  },
+  {
+    stop: 9,
+    name: 'The Mount / Mount St. Vincent',
+    text: 'This reminded me of The Park and the People because the reading explains that Central Park was not built on empty land. The Mount had many different uses before it became part of the park, including a tavern, convent, school, and Civil War hospital. This shows that entire communities were displaced to create the park. It also reminded me of the reading about stereographs because the old image of Mount St. Vincent helps show a version of the park that no longer exists. The photograph makes it easier to see that this area once had buildings and communities, not just trees and paths.',
+  },
+  {
+    stop: 10,
+    name: "McGowan's Pass",
+    text: 'This reminded me of Mannahatta because the reading talks about how Manhattan had many layers of history before the modern city was built. McGowan\'s Pass shows this clearly because before Central Park existed, this area was used for travel, roads, and military defense. The Wickquasgeck Trail and the Kingsbridge Road show that people were moving through this land long before it became a designed park landscape. Today it looks like a quiet part of the park, but it was once an important passage through Manhattan. It also reminds me of The Park and the People because the park often hides the histories that came before it. The 2013 discovery of the buried Kingsbridge Road clearly exmplifies this.',
   },
 ]
 
