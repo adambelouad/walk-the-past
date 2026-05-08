@@ -42,21 +42,7 @@ const TOUR_STOPS: Stop[] = [
       'The Center Garden has an Italian Renaissance influence, with a central lawn, fountain, yew hedges, crabapple trees, and a wisteria pergola. The North Garden uses a French parterre design with the Untermyer Fountain. The South Garden is arranged like an English perennial garden and includes the Burnett Fountain, connected to The Secret Garden author Frances Hodgson Burnett.',
     ],
   },
-  // ── 3. McGowan's Pass ─────────────────────────────────────────────────────
-  {
-    name: "McGowan's Pass",
-    emoji: '⚔️',
-    coords: [-73.9550, 40.7933],
-    description:
-      "McGowan's Pass is a rocky passage in the north end of Central Park, near East Drive around 107th Street. Before Central Park was built, this area was part of the old Kingsbridge Road, a major route that connected lower Manhattan to northern Manhattan and beyond.",
-    details: [
-      "McGowan's Pass is a rocky passage in the north end of Central Park, near East Drive around 107th Street. Before Central Park was built, this area was part of the old Kingsbridge Road, a major route that connected lower Manhattan to northern Manhattan and beyond. The road passed between rocky hills, which made the area a natural narrow crossing point.",
-      "The hidden history of McGowan's Pass is connected to war, travel, and defense. During the Revolutionary War and the War of 1812, this area was valuable because it helped control movement through Manhattan. In the War of 1812, American forces built defenses around the pass, including Fort Clinton, Nutter's Battery, Fort Fish, and the Blockhouse. These structures protected the northern approach to the city.",
-      'Archaeology also shows that this history is still physically present. During a 2013 restoration project, archaeologists found the foundation of an old gatehouse and remains of the Kingsbridge Road beneath the park landscape. These findings show that Central Park still contains traces of older roads and military structures.',
-      "The location was important because it gave people control over a main route into Manhattan. The rocky geography created a narrow passage, so soldiers could defend it more easily than an open road. Its high ground also gave views over the surrounding area, which made it useful for watching enemy movement.",
-    ],
-  },
-  // ── 4. Fort Clinton ───────────────────────────────────────────────────────
+  // ── 3. Fort Clinton ───────────────────────────────────────────────────────
   {
     name: 'Fort Clinton',
     emoji: '🏰',
@@ -70,6 +56,22 @@ const TOUR_STOPS: Stop[] = [
       'This matters because Central Park hides military history under what now looks like natural parkland. Today, Fort Clinton appears as a scenic overlook with cannons and a monument, but its original purpose was defense. The site shows that the north end of Central Park was shaped by war, geography, and control over movement before it became a public park.',
       "Fort Clinton shows how geography made certain parts of Manhattan strategically important. The site was useful because it overlooked McGowan's Pass, a narrow route through the rocky landscape. This made it easier to watch and defend the road below.",
       'The fort also shows that Central Park contains older layers of history. Before the park was designed as a place for recreation, this land was used for travel, military planning, and defense. Archaeological work in the Fort Landscape has uncovered remains of the old fortification system and the surface of Kingsbridge Road, proving that these earlier histories still exist beneath the park.',
+    ],
+  },
+  // ── 4. Harlem Meer ────────────────────────────────────────────────────────
+  {
+    name: 'Harlem Meer',
+    emoji: '🎣',
+    coords: [-73.9522, 40.7962],
+    description:
+      'The Harlem Meer is an eleven-acre lake in the northeast corner of Central Park, near 110th Street and Fifth Avenue. The word "Meer" is Dutch for "lake," which connects the site to the Dutch colonial history of Harlem.',
+    details: [
+      'The Harlem Meer is an eleven-acre lake in the northeast corner of Central Park, near 110th Street and Fifth Avenue. The word "Meer" is Dutch for "lake," which connects the site to the Dutch colonial history of Harlem. The area sits close to the northern edge of the park, next to the neighborhoods of East Harlem and Harlem.',
+      'The Harlem Meer was designed as part of a connected water system in Central Park. Water flows from the Pool into the Loch, and then into the Harlem Meer. This means the Meer was part of a larger landscape plan, not an isolated lake.',
+      'The hidden history of the Harlem Meer is that this part of the park has always been tied to the communities around it. The north end of Central Park was often treated differently from the more famous southern areas of the park. By the 1970s, the Harlem Meer and the surrounding north-end landscapes had badly deteriorated. The Central Park Conservancy later restored the Meer in 1993, helping make it a destination again for nearby communities.',
+      'The Cultural Landscape Foundation explains that the shoreline changed over time. By the 1940s, the city had added a boathouse and walking paths, and the shoreline had become more regularized and fenced. Later restoration work focused on bringing back a more natural shoreline and improving access to the water.',
+      'The Harlem Meer shows how the north end of Central Park connects park design with neighborhood access. It was designed as a scenic water landscape, but it also became an important public space for Harlem and East Harlem residents.',
+      'The Meer also shows how Central Park has changed over time. Its landscape has gone through design, decline, restoration, and new redevelopment. The recent Davis Center project replaced the old Lasker Rink and Pool and aimed to reconnect the Harlem Meer area with the surrounding park landscape and nearby communities.',
     ],
   },
   // ── 5. Nutter's Battery ───────────────────────────────────────────────────
@@ -88,40 +90,7 @@ const TOUR_STOPS: Stop[] = [
       'It also shows how Central Park was built over earlier layers of New York history. Before this land became a public park, it was used for roads, military planning, and local property. The current overlook marks the place where one part of that defense system once stood.',
     ],
   },
-  // ── 6. The Mount / Mount St. Vincent ─────────────────────────────────────
-  {
-    name: 'The Mount / Mount St. Vincent',
-    emoji: '⛪',
-    coords: [-73.9554, 40.7941],
-    description:
-      "The Mount is a landscape in the north end of Central Park, near McGowan's Pass. Its name comes from Mount St. Vincent, a religious community established there in 1847 by the Sisters of Charity of Saint Vincent de Paul. This quiet park area once held several different institutions.",
-    details: [
-      "The Mount is a landscape in the north end of Central Park, near McGowan's Pass. Its name comes from Mount St. Vincent, a religious community established there in 1847 by the Sisters of Charity of Saint Vincent de Paul. The sisters bought an older tavern building on the site and added a brick chapel and refectory in 1848. The buildings were used as a convent and boarding school.",
-      "The hidden history of the Mount is that this quiet park area once held several different institutions. Before Central Park, it was connected to roads and tavern culture around McGowan's Pass. In the mid-1700s, John Dyckman built a tavern in this area for travelers on the old Boston Post Road, and Andrew McGown later purchased the land and tavern. This is where the name McGowan's Pass comes from.",
-      'The site changed again in the 1840s when the Sisters of Charity turned it into Mount St. Vincent. This means the land was used for religious life, education, and community before it became part of Central Park. When the city began developing Central Park, the sisters had to relocate their motherhouse and academy from McGowan\'s Pass to Riverdale in the Bronx.',
-      'The site also had a Civil War history. During the war, the former Mount St. Vincent buildings were used as a military hospital known as the U.S. General Hospital, Central Park.',
-      'The Mount shows how the north end of Central Park was built over earlier uses of the land. Today, it looks like a simple wooded and rocky landscape, but it once held roads, a tavern, a convent, a school, and a Civil War hospital.',
-      "The location was important because it sat near McGowan's Pass, one of the major routes through northern Manhattan. People used this area for travel, gathering, education, religion, and later military medical care. Its position near a major road made it useful long before it became part of the park.",
-
-    ],
-  },
-  // ── 7. Harlem Meer ────────────────────────────────────────────────────────
-  {
-    name: 'Harlem Meer',
-    emoji: '🎣',
-    coords: [-73.9522, 40.7962],
-    description:
-      'The Harlem Meer is an eleven-acre lake in the northeast corner of Central Park, near 110th Street and Fifth Avenue. The word "Meer" is Dutch for "lake," which connects the site to the Dutch colonial history of Harlem.',
-    details: [
-      'The Harlem Meer is an eleven-acre lake in the northeast corner of Central Park, near 110th Street and Fifth Avenue. The word "Meer" is Dutch for "lake," which connects the site to the Dutch colonial history of Harlem. The area sits close to the northern edge of the park, next to the neighborhoods of East Harlem and Harlem.',
-      'The Harlem Meer was designed as part of a connected water system in Central Park. Water flows from the Pool into the Loch, and then into the Harlem Meer. This means the Meer was part of a larger landscape plan, not an isolated lake.',
-      'The hidden history of the Harlem Meer is that this part of the park has always been tied to the communities around it. The north end of Central Park was often treated differently from the more famous southern areas of the park. By the 1970s, the Harlem Meer and the surrounding north-end landscapes had badly deteriorated. The Central Park Conservancy later restored the Meer in 1993, helping make it a destination again for nearby communities.',
-      'The Cultural Landscape Foundation explains that the shoreline changed over time. By the 1940s, the city had added a boathouse and walking paths, and the shoreline had become more regularized and fenced. Later restoration work focused on bringing back a more natural shoreline and improving access to the water.',
-      'The Harlem Meer shows how the north end of Central Park connects park design with neighborhood access. It was designed as a scenic water landscape, but it also became an important public space for Harlem and East Harlem residents.',
-      'The Meer also shows how Central Park has changed over time. Its landscape has gone through design, decline, restoration, and new redevelopment. The recent Davis Center project replaced the old Lasker Rink and Pool and aimed to reconnect the Harlem Meer area with the surrounding park landscape and nearby communities.',
-    ],
-  },
-  // ── 8. Davis Center / former Lasker Rink and Pool ────────────────────────
+  // ── 6. Davis Center / former Lasker Rink and Pool ────────────────────────
   {
     name: 'Davis Center / former Lasker Rink and Pool',
     emoji: '⛸️',
@@ -137,7 +106,7 @@ const TOUR_STOPS: Stop[] = [
       'It also shows a newer idea of park design. Instead of treating recreation and nature as separate, the Davis Center tries to combine them. The same site can support swimming, skating, field use, community gathering, and ecological restoration.',
     ],
   },
-  // ── 9. Huddlestone Arch ───────────────────────────────────────────────────
+  // ── 7. Huddlestone Arch ───────────────────────────────────────────────────
   {
     name: 'Huddlestone Arch',
     emoji: '🪨',
@@ -153,7 +122,7 @@ const TOUR_STOPS: Stop[] = [
       'It was also important because it turned engineering into scenery. The arch had to support traffic above it, but it was made to look like a natural rock formation. That makes it a good example of Central Park\'s hidden design logic: many features that look natural were actually carefully built.',
     ],
   },
-  // ── 10. The Ravine ────────────────────────────────────────────────────────
+  // ── 8. The Ravine ────────────────────────────────────────────────────────
   {
     name: 'The Ravine',
     emoji: '🌊',
@@ -167,6 +136,36 @@ const TOUR_STOPS: Stop[] = [
       'This matters because the Ravine shows one of Central Park\'s main design ideas: constructed nature. Visitors are meant to feel like they are walking through a natural forest, but the experience was planned. The rocks, water, paths, plants, and bridges were arranged to create a feeling of escape from the city.',
       'The Ravine shows how Central Park turns engineering into landscape. The stream, waterfalls, bridges, and paths all work together to create a natural-looking scene. Huddlestone Arch and Glenspan Arch mark entrances into the Ravine, helping visitors move into a more enclosed and wooded part of the park.',
       'The Ravine also shows how the north end of Central Park has changed over time. For much of the twentieth century, the park\'s woodlands suffered from erosion, invasive plants, damaged watercourses, and deteriorating paths and rustic features. The Central Park Conservancy later restored the Ravine to repair these problems and protect the landscape.',
+    ],
+  },
+  // ── 9. The Mount / Mount St. Vincent ─────────────────────────────────────
+  {
+    name: 'The Mount / Mount St. Vincent',
+    emoji: '⛪',
+    coords: [-73.9554, 40.7941],
+    description:
+      "The Mount is a landscape in the north end of Central Park, near McGowan's Pass. Its name comes from Mount St. Vincent, a religious community established there in 1847 by the Sisters of Charity of Saint Vincent de Paul. This quiet park area once held several different institutions.",
+    details: [
+      "The Mount is a landscape in the north end of Central Park, near McGowan's Pass. Its name comes from Mount St. Vincent, a religious community established there in 1847 by the Sisters of Charity of Saint Vincent de Paul. The sisters bought an older tavern building on the site and added a brick chapel and refectory in 1848. The buildings were used as a convent and boarding school.",
+      "The hidden history of the Mount is that this quiet park area once held several different institutions. Before Central Park, it was connected to roads and tavern culture around McGowan's Pass. In the mid-1700s, John Dyckman built a tavern in this area for travelers on the old Boston Post Road, and Andrew McGown later purchased the land and tavern. This is where the name McGowan's Pass comes from.",
+      'The site changed again in the 1840s when the Sisters of Charity turned it into Mount St. Vincent. This means the land was used for religious life, education, and community before it became part of Central Park. When the city began developing Central Park, the sisters had to relocate their motherhouse and academy from McGowan\'s Pass to Riverdale in the Bronx.',
+      'The site also had a Civil War history. During the war, the former Mount St. Vincent buildings were used as a military hospital known as the U.S. General Hospital, Central Park.',
+      'The Mount shows how the north end of Central Park was built over earlier uses of the land. Today, it looks like a simple wooded and rocky landscape, but it once held roads, a tavern, a convent, a school, and a Civil War hospital.',
+      "The location was important because it sat near McGowan's Pass, one of the major routes through northern Manhattan. People used this area for travel, gathering, education, religion, and later military medical care. Its position near a major road made it useful long before it became part of the park.",
+    ],
+  },
+  // ── 10. McGowan's Pass ────────────────────────────────────────────────────
+  {
+    name: "McGowan's Pass",
+    emoji: '⚔️',
+    coords: [-73.9550, 40.7933],
+    description:
+      "McGowan's Pass is a rocky passage in the north end of Central Park, near East Drive around 107th Street. Before Central Park was built, this area was part of the old Kingsbridge Road, a major route that connected lower Manhattan to northern Manhattan and beyond.",
+    details: [
+      "McGowan's Pass is a rocky passage in the north end of Central Park, near East Drive around 107th Street. Before Central Park was built, this area was part of the old Kingsbridge Road, a major route that connected lower Manhattan to northern Manhattan and beyond. The road passed between rocky hills, which made the area a natural narrow crossing point.",
+      "The hidden history of McGowan's Pass is connected to war, travel, and defense. During the Revolutionary War and the War of 1812, this area was valuable because it helped control movement through Manhattan. In the War of 1812, American forces built defenses around the pass, including Fort Clinton, Nutter's Battery, Fort Fish, and the Blockhouse. These structures protected the northern approach to the city.",
+      'Archaeology also shows that this history is still physically present. During a 2013 restoration project, archaeologists found the foundation of an old gatehouse and remains of the Kingsbridge Road beneath the park landscape. These findings show that Central Park still contains traces of older roads and military structures.',
+      "The location was important because it gave people control over a main route into Manhattan. The rocky geography created a narrow passage, so soldiers could defend it more easily than an open road. Its high ground also gave views over the surrounding area, which made it useful for watching enemy movement.",
     ],
   },
 ]
