@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Young_Serif, Hedvig_Letters_Serif } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import Nav from "./components/Nav";
 import "./globals.css";
 
@@ -30,6 +31,7 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col bg-white text-black">
         <Nav />
         {children}
+        <Analytics />
       </body>
     </html>
   );
